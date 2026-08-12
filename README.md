@@ -6,3 +6,4 @@
    | Rene Bubõr | B: Visualization | Win |
    ## Meie eesmärk
    Meie eesmärk on aidata ettevõttel teha paremaid turundusotsuseid.
+muudan ise
