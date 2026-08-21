@@ -2,7 +2,7 @@ MEESKOND: [UrbanStyle Marketing data]  |  NÄDAL: 1  |  TEGELANE: Toomas Kask
 Roll A: Rene Bubör, Roll B: Laura Johanson, Roll C. Angelina Sivkov
 
 ANDMEMAASTIK (Data Landscape):
-- sales (tehingud): [15234 rida, 11 veergu, peamine leid-total price on miinusega, see võiks olla toote tagastus]
+- sales (tehingud): [15234 rida, 12 veergu, peamine leid-total price on miinusega, see võib olla toote tagastus]
 - customers: [3150 rida, 9 veergu, peamine leid-380 klienti kellel on email puudu]
 - products: [362 rida, 9 veergu, peamine leid-]
 - sales (kanalid/asukohad): [unikaalsed kanalid, asukohad, peamine leid- hea tulemus, et igal tootel on hind olemas]
@@ -11,7 +11,7 @@ SUURIM ÜLLATUS:
 [Igal tootel ja igas kategoorias on olemas hind, mis on positiivne]
 
 SOOVITUS TOOMASELE:
-[Tabelitest tuleb puhastada dublikaatidid, üle kontrollida puuduvaid andmeid]
+[Tabelitest tuleb puhastada dublikaadid, üle kontrollida puuduvad andmed]
 
 PUUDUVAD ANDMED:
 [Müügiklientide failides puuduvad emailid, eco certified kategoorias mõnedel toodetel info puudub]
