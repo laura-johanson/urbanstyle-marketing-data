@@ -13,7 +13,7 @@
 │  Kuupäevad olid erineva formaadiga sales tabeis                                            │
 │                                                              │
 │  SOOVITUS TOOMASELE:                                         │
-│  Muudatused ellu viia            │
+│   Andmeid võib kasutada andmekvaliteedi kontrollimiseks ja vigade leidmiseks, kuid mitte veel täielikult usaldusväärsete äriotsuste tegemiseks sest parandused veel tegemata (nt. kuupäeva ja linnanime formaat)│
 │                                                              │
 │  PUUDUVAD ANDMED:                                            │
 │  Ei teadnud, kuidas käivitada scripti kui on erineva formaadiga kuupäevad. Aitas ChatGPT                      │
