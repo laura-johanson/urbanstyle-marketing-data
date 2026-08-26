@@ -1,1 +1,20 @@
-presentation
+┌──────────────────────────────────────────────────────────────┐
+│  MEESKOND: [UrbanStyle Marketing Data]  |  NÄDAL: 2  |  TEGELANE: Toomas Kask    │
+  Roll A (Sales): Angelina Sivkov; Roll B (Customers): Rene Bubõr; Roll C (Products): Laura Johanson
+│                                                              │
+│  ANDMEKVALITEEDI KOONDRAPORT                                 │
+│                                                              │
+│  PEAMISED LEIUD:                                             │
+│  1. [domeen A]: leitud 2 probleemi — 100tk duplikaat invoice_id, 1487tk NULL customer_id    │
+│  2. [domeen B]: leitud 3 probleemi —  130tk duplikaatset emaili, 42 ebajärjekindlat linnanime, 380tk puuduvat emaili   │
+│  3. [domeen C]: leitud 1 probleem — 12tk duplikaatset tootenime  │
+│                                                              │
+│  SUURIM ÜLLATUS:                                             │
+│  Kuupäevad olid erineva formaadiga sales tabeis                                            │
+│                                                              │
+│  SOOVITUS TOOMASELE:                                         │
+│   Andmeid võib kasutada andmekvaliteedi kontrollimiseks ja vigade leidmiseks, kuid mitte veel täielikult usaldusväärsete äriotsuste tegemiseks sest parandused veel tegemata (nt. kuupäeva ja linnanime formaat)│
+│                                                              │
+│  PUUDUVAD ANDMED:                                            │
+│  Ei teadnud, kuidas käivitada scripti kui on erineva formaadiga kuupäevad. Aitas ChatGPT                      │
+└──────────────────────────────────────────────────────────────┘
